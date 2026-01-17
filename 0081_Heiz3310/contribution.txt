@@ -1,0 +1,2 @@
+Contribution initialized.
+Transcript and hash will be added if required.
